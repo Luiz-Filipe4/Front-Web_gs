@@ -1,12 +1,14 @@
 import React, { useState, useEffect } from 'react';
 import perfisData from './data/perfis.json'; 
+import ProfileCard from './components/ProfileCard';
+import ProfileModal from './components/ProfileModal';
 
 function App() {
 
   const [profiles] = useState(perfisData); 
   const [filteredProfiles, setFilteredProfiles] = useState(perfisData);
   
-  const [setSelectedProfile] = useState(null);
+  const [selectedProfile, setSelectedProfile] = useState(null);
   const [darkMode, setDarkMode] = useState(false);
   const [searchTerm, setSearchTerm] = useState("");
   const [filterArea, setFilterArea] = useState("");
@@ -70,6 +72,11 @@ function App() {
         </select>
       </div>
 
+      {/* Contagem de Resultados */}
+      <div className="max-w-7xl mx-auto mb-4 text-gray-600 dark:text-gray-400">
+        Encontrados: {filteredProfiles.length} profissionais
+      </div>
+
       {/* Grid de Cards */}
       <div className="max-w-7xl mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
         {filteredProfiles.length > 0 ? (
@@ -84,6 +91,14 @@ function App() {
           <p className="col-span-full text-center text-gray-500 text-xl mt-10">Nenhum profissional encontrado.</p>
         )}
       </div>
+
+      {/* Modal Detalhada */}
+      {selectedProfile && (
+        <ProfileModal 
+          profile={selectedProfile} 
+          onClose={() => setSelectedProfile(null)} 
+        />
+      )}
     </div>
   );
 }
