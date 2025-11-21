@@ -46,7 +46,7 @@ function App() {
       
       {/* Header e Botão Dark Mode */}
       <header className="max-w-7xl mx-auto flex justify-between items-center mb-12">
-        <h1 className="text-3xl font-bold text-gray-800 dark:text-white">Rede de Profissionais</h1>
+        <h1 className="text-3xl font-bold text-gray-800 dark:text-white">ProLinker</h1>
         <button 
           onClick={toggleDarkMode}
           className="bg-gray-800 dark:bg-yellow-500 text-white dark:text-gray-900 px-4 py-2 rounded-lg font-semibold cursor-pointer transition-all hover:opacity-90"

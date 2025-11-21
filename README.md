@@ -1,16 +1,60 @@
-# React + Vite
+## Integrantes
+Luiz Filipe Dalboni Riello **(RM:564189)**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Rafael Lorenzini **(RM: 563643)**
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## React Compiler
+## Link do Repositório
+https://github.com/Luiz-Filipe4/Front-Web_gs.git
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## Resumo do Projeto
+Este projeto é uma Single Page Application (SPA) desenvolvida como parte da avaliação acadêmica. A aplicação simula uma rede profissional voltada ao futuro do trabalho, permitindo a exploração de perfis de profissionais fictícios.
+
+A interface permite visualizar cards de profissionais, filtrar por nome, habilidades ou localização, e acessar detalhes completos (experiência, formação, soft skills) através de um modal interativo. O projeto consome dados de um arquivo JSON local contendo 60 perfis simulados.
+
+**Principais Funcionalidades:**
+* Listagem de perfis profissionais.
+* Filtros dinâmicos por Área de atuação, Texto (Nome/Skill) e Localização.
+* Modal com detalhes expandidos do perfil.
+* Dark Mode (Tema Escuro/Claro).
+* Design Responsivo (Mobile, Tablet e Desktop).
+
+## Tecnologias Utilizadas
+* **React** (Vite)
+* **Tailwind CSS v4.0**
+* **HTML5 & CSS3**
+* **JSON** (Dados locais)
+
+---
+
+## Usuários e Senhas
+O projeto é uma aplicação de acesso público para visualização de perfis.
+**Não há sistema de autenticação (Login/Senha)** implementado.
+
+---
+
+## Instalação e Execução (Passo a Passo)
+
+Pré-requisitos: É necessário ter o [Node.js] instalado em sua máquina.
+
+1. **Clone o repositório:**
+   ```bash
+   git clone https://github.com/Luiz-Filipe4/Front-Web_gs.git
+
+2. **Acesse a pasta do projeto:**
+    ```bash
+    cd Front-Web_GS
+
+3. **Instale as dependências:**
+    ```bash
+    npm install
+
+4. **Execute o projeto:**
+    ```bash
+    npm run dev
+
+5. **Acesse no navegador:** O terminal irá mostrar o link local
