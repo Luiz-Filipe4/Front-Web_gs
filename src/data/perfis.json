@@ -1,0 +1,2225 @@
+[
+{
+    "Id": 1,
+    "nome": "Ana Silva",
+    "foto": "https://i.pravatar.cc/150?img=1",
+    "cargo": "Engenheira de Software",
+    "resumo": "Especialista em desenvolvimento web com foco em performance e escalabilidade.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["React", "Node.js", "TypeScript"],
+    "softSkills": ["Comunicação", "Resiliência"],
+    "experiencias": [
+      {
+        "empresa": "Tech Corp",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento de interfaces modernas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma X",
+        "link": "https://github.com",
+        "descricao": "Sistema de gestão financeira."
+      }
+    ],
+    "certificacoes": ["AWS Certified Cloud Practitioner"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "areaInteresses": ["IA ética", "Educação"]
+  },
+  {
+    "Id": 2,
+    "nome": "Carlos Souza",
+    "foto": "https://i.pravatar.cc/150?img=3",
+    "cargo": "UX Designer",
+    "resumo": "Apaixonado por criar experiências de usuário intuitivas.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": ["Figma", "CSS", "HTML"],
+    "softSkills": ["Empatia", "Criatividade"],
+    "experiencias": [
+      {
+        "empresa": "Design Studio",
+        "cargo": "Designer Junior",
+        "inicio": "2021-03",
+        "fim": "2023-12",
+        "descricao": "Criação de protótipos de alta fidelidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "ESPM",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "App de Delivery",
+        "link": "https://behance.net",
+        "descricao": "Redesign completo de app de entrega."
+      }
+    ],
+    "certificacoes": ["Google UX Design"],
+    "idiomas": [{ "idioma": "Espanhol", "nivel": "Intermediário" }],
+    "areaInteresses": ["Acessibilidade", "Mobile"]
+  },
+  {
+    "Id": 3,
+    "nome": "Fernanda Lima",
+    "foto": "https://i.pravatar.cc/150?img=5",
+    "cargo": "Data Scientist",
+    "resumo": "Transformando dados em insights estratégicos.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Dados",
+    "habilidadesTecnicas": ["Python", "SQL", "Power BI"],
+    "softSkills": ["Pensamento Crítico", "Liderança"],
+    "experiencias": [
+      {
+        "empresa": "Data Inc",
+        "cargo": "Cientista de Dados",
+        "inicio": "2020-05",
+        "fim": "Atualmente",
+        "descricao": "Modelagem preditiva para varejo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Estatística",
+        "instituicao": "UFMG",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Previsão de Vendas",
+        "link": "https://github.com",
+        "descricao": "Modelo de ML para previsão de estoque."
+      }
+    ],
+    "certificacoes": ["Azure Data Scientist"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Fluente" }],
+    "areaInteresses": ["Big Data", "IoT"]
+  },
+  {
+    "Id": 4,
+    "nome": "Ana Silva",
+    "foto": "https://i.pravatar.cc/150?img=1",
+    "cargo": "Engenheira de Software",
+    "resumo": "Especialista em desenvolvimento web com foco em performance e escalabilidade.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["React", "Node.js", "TypeScript"],
+    "softSkills": ["Comunicação", "Resiliência"],
+    "experiencias": [
+      {
+        "empresa": "Tech Corp",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento de interfaces modernas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma X",
+        "link": "https://github.com",
+        "descricao": "Sistema de gestão financeira."
+      }
+    ],
+    "certificacoes": ["AWS Certified Cloud Practitioner"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "areaInteresses": ["IA ética", "Educação"]
+  },
+  {
+    "Id": 5,
+    "nome": "Carlos Souza",
+    "foto": "https://i.pravatar.cc/150?img=3",
+    "cargo": "UX Designer",
+    "resumo": "Apaixonado por criar experiências de usuário intuitivas.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": ["Figma", "CSS", "HTML"],
+    "softSkills": ["Empatia", "Criatividade"],
+    "experiencias": [
+      {
+        "empresa": "Design Studio",
+        "cargo": "Designer Junior",
+        "inicio": "2021-03",
+        "fim": "2023-12",
+        "descricao": "Criação de protótipos de alta fidelidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "ESPM",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "App de Delivery",
+        "link": "https://behance.net",
+        "descricao": "Redesign completo de app de entrega."
+      }
+    ],
+    "certificacoes": ["Google UX Design"],
+    "idiomas": [{ "idioma": "Espanhol", "nivel": "Intermediário" }],
+    "areaInteresses": ["Acessibilidade", "Mobile"]
+  },
+  {
+    "Id": 6,
+    "nome": "Fernanda Lima",
+    "foto": "https://i.pravatar.cc/150?img=5",
+    "cargo": "Data Scientist",
+    "resumo": "Transformando dados em insights estratégicos.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Dados",
+    "habilidadesTecnicas": ["Python", "SQL", "Power BI"],
+    "softSkills": ["Pensamento Crítico", "Liderança"],
+    "experiencias": [
+      {
+        "empresa": "Data Inc",
+        "cargo": "Cientista de Dados",
+        "inicio": "2020-05",
+        "fim": "Atualmente",
+        "descricao": "Modelagem preditiva para varejo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Estatística",
+        "instituicao": "UFMG",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Previsão de Vendas",
+        "link": "https://github.com",
+        "descricao": "Modelo de ML para previsão de estoque."
+      }
+    ],
+    "certificacoes": ["Azure Data Scientist"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Fluente" }],
+    "areaInteresses": ["Big Data", "IoT"]
+  },
+  {
+        "Id": 7,
+        "nome": "Lucas Pereira",
+        "foto": "https://i.pravatar.cc/150?img=7",
+        "cargo": "DevOps Engineer",
+        "resumo": "Automatizando processos para melhorar a entrega de software.",
+        "localizacao": "Curitiba/PR",
+        "area": "Infraestrutura",
+        "habilidadesTecnicas": ["Docker", "Kubernetes", "Jenkins"],
+        "softSkills": ["Colaboração", "Solução de Problemas"],
+        "experiencias": [
+        {
+            "empresa": "Cloud Solutions",
+            "cargo": "Engenheiro DevOps",
+            "inicio": "2019-08",
+            "fim": "Atualmente",
+            "descricao": "Implementação de pipelines CI/CD."
+        }
+        ],
+        "formacao": [
+        {
+            "curso": "Sistemas de Informação",
+            "instituicao": "PUC-PR",
+            "ano": 2018
+        }
+        ],
+        "projetos": [
+        {
+            "titulo": "Automação de Infraestrutura",
+            "link": "https://github.com",
+            "descricao": "Scripts para provisionamento automático."
+        }
+        ],
+        "certificacoes": ["Certified Kubernetes Administrator"],
+        "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+        "areaInteresses": ["Cloud Computing", "Segurança"]
+    },
+    {
+        "Id": 8,
+        "nome": "Mariana Costa",
+        "foto": "https://i.pravatar.cc/150?img=8",
+        "cargo": "Marketing Specialist",
+        "resumo": "Criando estratégias de marketing digital eficazes.",
+        "localizacao": "Salvador/BA",
+        "area": "Marketing",
+        "habilidadesTecnicas": ["SEO", "Google Analytics", "Content Marketing"],
+        "softSkills": ["Criatividade", "Análise de Dados"],
+        "experiencias": [
+        {
+            "empresa": "Market Experts",
+            "cargo": "Especialista em Marketing",
+            "inicio": "2021-06",
+            "fim": "Atualmente",
+            "descricao": "Desenvolvimento de campanhas digitais."
+        }
+        ],
+        "formacao": [
+        {
+            "curso": "Marketing",
+            "instituicao": "UFBA",
+            "ano": 2020
+        }
+        ],
+        "projetos": [
+        {
+            "titulo": "Campanha de Mídias Sociais",
+            "link": "https://linkedin.com",
+            "descricao": "Aumento do engajamento em 30%."
+        }
+        ],
+        "certificacoes": ["HubSpot Content Marketing"],
+        "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+        "areaInteresses": ["Marketing Digital", "Branding"]
+    },
+    {
+        "Id": 9,
+        "nome": "Rafael Gomes",
+        "foto": "https://i.pravatar.cc/150?img=9",
+        "cargo": "Cybersecurity Analyst",
+        "resumo": "Protegendo sistemas contra ameaças cibernéticas.",
+        "localizacao": "Recife/PE",
+        "area": "Segurança da Informação",
+        "habilidadesTecnicas": ["Firewall", "SIEM", "Análise de Vulnerabilidades"],
+        "softSkills": ["Atenção aos Detalhes", "Pensamento Crítico"],
+        "experiencias": [
+        {
+            "empresa": "SecureTech",
+            "cargo": "Analista de Segurança",
+            "inicio": "2020-11",
+            "fim": "Atualmente",
+            "descricao": "Monitoramento e resposta a incidentes."
+        }
+        ],
+        "formacao": [
+        {
+            "curso": "Segurança da Informação",
+            "instituicao": "UFPE",
+            "ano": 2019
+        }
+        ],
+        "projetos": [
+        {
+            "titulo": "Implementação de SIEM",
+            "link": "https://github.com",
+            "descricao": "Sistema de monitoramento de segurança."
+        }
+        ],
+        "certificacoes": ["Certified Information Systems Security Professional (CISSP)"],
+        "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+        "areaInteresses": ["Segurança Cibernética", "Criptografia"]
+    },
+    {
+        "Id": 10,
+        "nome": "Beatriz Fernandes",
+        "foto": "https://i.pravatar.cc/150?img=10",
+        "cargo": "Product Manager",
+        "resumo": "Liderando equipes para entregar produtos de sucesso.",
+        "localizacao": "Fortaleza/CE",
+        "area": "Gestão de Produtos",
+        "habilidadesTecnicas": ["Agile", "Scrum", "Roadmapping"],
+        "softSkills": ["Liderança", "Comunicação"],
+        "experiencias": [
+        {
+            "empresa": "Innovatech",
+            "cargo": "Gerente de Produto",
+            "inicio": "2018-09",
+            "fim": "Atualmente",
+            "descricao": "Coordenação de equipes multifuncionais."
+        }
+        ],
+        "formacao": [
+        {
+            "curso": "Administração de Empresas",
+            "instituicao": "Unifor",
+            "ano": 2017
+        }
+        ],
+        "projetos": [
+        {
+            "titulo": "Lançamento de Produto Y",
+            "link": "https://linkedin.com",
+            "descricao": "Produto alcançou 1M de usuários em 6 meses."
+        }
+        ],
+        "certificacoes": ["Certified Scrum Product Owner (CSPO)"],
+        "idiomas": [{ "idioma": "Inglês", "nivel": "Fluente" }],
+        "areaInteresses": ["Inovação", "User Experience"]
+    },
+    {
+        "Id": 11,
+        "nome": "Thiago Alves",
+        "foto": "https://i.pravatar.cc/150?img=11",
+        "cargo": "Full Stack Developer",
+        "resumo": "Desenvolvendo soluções completas para web.",
+        "localizacao": "Porto Alegre/RS",
+        "area": "Desenvolvimento",
+        "habilidadesTecnicas": ["JavaScript", "Python", "Django", "React"],
+        "softSkills": ["Adaptabilidade", "Trabalho em Equipe"],
+        "experiencias": [
+        {
+            "empresa": "Web Solutions",
+            "cargo": "Desenvolvedor Full Stack",
+            "inicio": "2019-02",
+            "fim": "Atualmente",
+            "descricao": "Criação de aplicações web escaláveis."
+        }
+        ],
+        "formacao": [
+        {
+            "curso": "Engenharia de Software",
+            "instituicao": "PUCRS",
+            "ano": 2018
+        }
+        ],
+        "projetos": [
+        {
+            "titulo": "Sistema de E-commerce",
+            "link": "https://github.com",
+            "descricao": "Plataforma completa de vendas online."
+        }
+        ],
+        "certificacoes": ["Full Stack Web Development"],
+        "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+        "areaInteresses": ["Desenvolvimento Web", "APIs"]
+    },
+    {
+        "Id": 12,
+        "nome": "Juliana Rocha",
+        "foto": "https://i.pravatar.cc/150?img=12",
+        "cargo": "Content Writer",
+        "resumo": "Criando conteúdo envolvente para diversas plataformas.",
+        "localizacao": "Goiânia/GO",
+        "area": "Comunicação",
+        "habilidadesTecnicas": ["SEO", "Copywriting", "Redação"],
+        "softSkills": ["Criatividade", "Atenção aos Detalhes"],
+        "experiencias": [
+        {
+            "empresa": "Creative Media",
+            "cargo": "Redatora de Conteúdo",
+            "inicio": "2020-04",
+            "fim": "Atualmente",
+            "descricao": "Produção de artigos e posts para blogs."
+        }
+        ],
+        "formacao": [
+        {
+            "curso": "Jornalismo",
+            "instituicao": "UFG",
+            "ano": 2019
+        }
+        ],
+        "projetos": [
+        {
+            "titulo": "Blog de Tecnologia",
+            "link": "https://medium.com",
+            "descricao": "Aumento do tráfego orgânico em 50%."
+        }
+        ],
+        "certificacoes": ["Content Marketing Certification"],
+        "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+        "areaInteresses": ["Marketing de Conteúdo", "Mídias Sociais"]
+    },
+    {
+        "Id": 13,
+        "nome": "Gabriel Martins",
+        "foto": "https://i.pravatar.cc/150?img=13",
+        "cargo": "AI Specialist",
+        "resumo": "Desenvolvendo soluções de inteligência artificial inovadoras.",
+        "localizacao": "Florianópolis/SC",
+        "area": "Inteligência Artificial",
+        "habilidadesTecnicas": ["Machine Learning", "TensorFlow", "Python"],
+        "softSkills": ["Inovação", "Resolução de Problemas"],
+        "experiencias": [
+        {
+            "empresa": "AI Innovations",
+            "cargo": "Especialista em IA",
+            "inicio": "2021-07",
+            "fim": "Atualmente",
+            "descricao": "Desenvolvimento de modelos de IA para automação."
+        }
+        ],
+        "formacao": [
+        {
+            "curso": "Engenharia da Computação",
+            "instituicao": "UFSC",
+            "ano": 2020
+        }
+        ],
+        "projetos": [
+        {
+            "titulo": "Chatbot Inteligente",
+            "link": "https://github.com",
+            "descricao": "Assistente virtual para atendimento ao cliente."
+        }
+        ],
+        "certificacoes": ["Machine Learning by Stanford University"],
+        "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+        "areaInteresses": ["IA Conversacional", "Automação"]
+    },
+    {
+    "Id": 14,
+    "nome": "Ana Silva",
+    "foto": "https://i.pravatar.cc/150?img=1",
+    "cargo": "Engenheira de Software",
+    "resumo": "Especialista em desenvolvimento web com foco em performance e escalabilidade.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["React", "Node.js", "TypeScript"],
+    "softSkills": ["Comunicação", "Resiliência"],
+    "experiencias": [
+      {
+        "empresa": "Tech Corp",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento de interfaces modernas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma X",
+        "link": "https://github.com",
+        "descricao": "Sistema de gestão financeira."
+      }
+    ],
+    "certificacoes": ["AWS Certified Cloud Practitioner"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "areaInteresses": ["IA ética", "Educação"]
+  },
+  {
+    "Id": 15,
+    "nome": "Carlos Souza",
+    "foto": "https://i.pravatar.cc/150?img=3",
+    "cargo": "UX Designer",
+    "resumo": "Apaixonado por criar experiências de usuário intuitivas.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": ["Figma", "CSS", "HTML"],
+    "softSkills": ["Empatia", "Criatividade"],
+    "experiencias": [
+      {
+        "empresa": "Design Studio",
+        "cargo": "Designer Junior",
+        "inicio": "2021-03",
+        "fim": "2023-12",
+        "descricao": "Criação de protótipos de alta fidelidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "ESPM",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "App de Delivery",
+        "link": "https://behance.net",
+        "descricao": "Redesign completo de app de entrega."
+      }
+    ],
+    "certificacoes": ["Google UX Design"],
+    "idiomas": [{ "idioma": "Espanhol", "nivel": "Intermediário" }],
+    "areaInteresses": ["Acessibilidade", "Mobile"]
+  },
+  {
+    "Id": 16,
+    "nome": "Fernanda Lima",
+    "foto": "https://i.pravatar.cc/150?img=5",
+    "cargo": "Data Scientist",
+    "resumo": "Transformando dados em insights estratégicos.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Dados",
+    "habilidadesTecnicas": ["Python", "SQL", "Power BI"],
+    "softSkills": ["Pensamento Crítico", "Liderança"],
+    "experiencias": [
+      {
+        "empresa": "Data Inc",
+        "cargo": "Cientista de Dados",
+        "inicio": "2020-05",
+        "fim": "Atualmente",
+        "descricao": "Modelagem preditiva para varejo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Estatística",
+        "instituicao": "UFMG",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Previsão de Vendas",
+        "link": "https://github.com",
+        "descricao": "Modelo de ML para previsão de estoque."
+      }
+    ],
+    "certificacoes": ["Azure Data Scientist"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Fluente" }],
+    "areaInteresses": ["Big Data", "IoT"]
+  },
+  {
+    "Id": 17,
+    "nome": "Ana Silva",
+    "foto": "https://i.pravatar.cc/150?img=1",
+    "cargo": "Engenheira de Software",
+    "resumo": "Especialista em desenvolvimento web com foco em performance e escalabilidade.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["React", "Node.js", "TypeScript"],
+    "softSkills": ["Comunicação", "Resiliência"],
+    "experiencias": [
+      {
+        "empresa": "Tech Corp",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento de interfaces modernas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma X",
+        "link": "https://github.com",
+        "descricao": "Sistema de gestão financeira."
+      }
+    ],
+    "certificacoes": ["AWS Certified Cloud Practitioner"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "areaInteresses": ["IA ética", "Educação"]
+  },
+  {
+    "Id": 18,
+    "nome": "Carlos Souza",
+    "foto": "https://i.pravatar.cc/150?img=3",
+    "cargo": "UX Designer",
+    "resumo": "Apaixonado por criar experiências de usuário intuitivas.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": ["Figma", "CSS", "HTML"],
+    "softSkills": ["Empatia", "Criatividade"],
+    "experiencias": [
+      {
+        "empresa": "Design Studio",
+        "cargo": "Designer Junior",
+        "inicio": "2021-03",
+        "fim": "2023-12",
+        "descricao": "Criação de protótipos de alta fidelidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "ESPM",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "App de Delivery",
+        "link": "https://behance.net",
+        "descricao": "Redesign completo de app de entrega."
+      }
+    ],
+    "certificacoes": ["Google UX Design"],
+    "idiomas": [{ "idioma": "Espanhol", "nivel": "Intermediário" }],
+    "areaInteresses": ["Acessibilidade", "Mobile"]
+  },
+  {
+    "Id": 19,
+    "nome": "Fernanda Lima",
+    "foto": "https://i.pravatar.cc/150?img=5",
+    "cargo": "Data Scientist",
+    "resumo": "Transformando dados em insights estratégicos.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Dados",
+    "habilidadesTecnicas": ["Python", "SQL", "Power BI"],
+    "softSkills": ["Pensamento Crítico", "Liderança"],
+    "experiencias": [
+      {
+        "empresa": "Data Inc",
+        "cargo": "Cientista de Dados",
+        "inicio": "2020-05",
+        "fim": "Atualmente",
+        "descricao": "Modelagem preditiva para varejo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Estatística",
+        "instituicao": "UFMG",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Previsão de Vendas",
+        "link": "https://github.com",
+        "descricao": "Modelo de ML para previsão de estoque."
+      }
+    ],
+    "certificacoes": ["Azure Data Scientist"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Fluente" }],
+    "areaInteresses": ["Big Data", "IoT"]
+  },
+  {
+    "Id": 20,
+    "nome": "Ana Silva",
+    "foto": "https://i.pravatar.cc/150?img=1",
+    "cargo": "Engenheira de Software",
+    "resumo": "Especialista em desenvolvimento web com foco em performance e escalabilidade.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["React", "Node.js", "TypeScript"],
+    "softSkills": ["Comunicação", "Resiliência"],
+    "experiencias": [
+      {
+        "empresa": "Tech Corp",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento de interfaces modernas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma X",
+        "link": "https://github.com",
+        "descricao": "Sistema de gestão financeira."
+      }
+    ],
+    "certificacoes": ["AWS Certified Cloud Practitioner"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "areaInteresses": ["IA ética", "Educação"]
+  },
+  {
+    "Id": 21,
+    "nome": "Carlos Souza",
+    "foto": "https://i.pravatar.cc/150?img=3",
+    "cargo": "UX Designer",
+    "resumo": "Apaixonado por criar experiências de usuário intuitivas.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": ["Figma", "CSS", "HTML"],
+    "softSkills": ["Empatia", "Criatividade"],
+    "experiencias": [
+      {
+        "empresa": "Design Studio",
+        "cargo": "Designer Junior",
+        "inicio": "2021-03",
+        "fim": "2023-12",
+        "descricao": "Criação de protótipos de alta fidelidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "ESPM",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "App de Delivery",
+        "link": "https://behance.net",
+        "descricao": "Redesign completo de app de entrega."
+      }
+    ],
+    "certificacoes": ["Google UX Design"],
+    "idiomas": [{ "idioma": "Espanhol", "nivel": "Intermediário" }],
+    "areaInteresses": ["Acessibilidade", "Mobile"]
+  },
+  {
+    "Id": 22,
+    "nome": "Fernanda Lima",
+    "foto": "https://i.pravatar.cc/150?img=5",
+    "cargo": "Data Scientist",
+    "resumo": "Transformando dados em insights estratégicos.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Dados",
+    "habilidadesTecnicas": ["Python", "SQL", "Power BI"],
+    "softSkills": ["Pensamento Crítico", "Liderança"],
+    "experiencias": [
+      {
+        "empresa": "Data Inc",
+        "cargo": "Cientista de Dados",
+        "inicio": "2020-05",
+        "fim": "Atualmente",
+        "descricao": "Modelagem preditiva para varejo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Estatística",
+        "instituicao": "UFMG",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Previsão de Vendas",
+        "link": "https://github.com",
+        "descricao": "Modelo de ML para previsão de estoque."
+      }
+    ],
+    "certificacoes": ["Azure Data Scientist"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Fluente" }],
+    "areaInteresses": ["Big Data", "IoT"]
+  },
+  {
+        "Id": 23,
+        "nome": "Lucas Pereira",
+        "foto": "https://i.pravatar.cc/150?img=7",
+        "cargo": "DevOps Engineer",
+        "resumo": "Automatizando processos para melhorar a entrega de software.",
+        "localizacao": "Curitiba/PR",
+        "area": "Infraestrutura",
+        "habilidadesTecnicas": ["Docker", "Kubernetes", "Jenkins"],
+        "softSkills": ["Colaboração", "Solução de Problemas"],
+        "experiencias": [
+        {
+            "empresa": "Cloud Solutions",
+            "cargo": "Engenheiro DevOps",
+            "inicio": "2019-08",
+            "fim": "Atualmente",
+            "descricao": "Implementação de pipelines CI/CD."
+        }
+        ],
+        "formacao": [
+        {
+            "curso": "Sistemas de Informação",
+            "instituicao": "PUC-PR",
+            "ano": 2018
+        }
+        ],
+        "projetos": [
+        {
+            "titulo": "Automação de Infraestrutura",
+            "link": "https://github.com",
+            "descricao": "Scripts para provisionamento automático."
+        }
+        ],
+        "certificacoes": ["Certified Kubernetes Administrator"],
+        "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+        "areaInteresses": ["Cloud Computing", "Segurança"]
+    },
+    {
+        "Id": 24,
+        "nome": "Mariana Costa",
+        "foto": "https://i.pravatar.cc/150?img=8",
+        "cargo": "Marketing Specialist",
+        "resumo": "Criando estratégias de marketing digital eficazes.",
+        "localizacao": "Salvador/BA",
+        "area": "Marketing",
+        "habilidadesTecnicas": ["SEO", "Google Analytics", "Content Marketing"],
+        "softSkills": ["Criatividade", "Análise de Dados"],
+        "experiencias": [
+        {
+            "empresa": "Market Experts",
+            "cargo": "Especialista em Marketing",
+            "inicio": "2021-06",
+            "fim": "Atualmente",
+            "descricao": "Desenvolvimento de campanhas digitais."
+        }
+        ],
+        "formacao": [
+        {
+            "curso": "Marketing",
+            "instituicao": "UFBA",
+            "ano": 2020
+        }
+        ],
+        "projetos": [
+        {
+            "titulo": "Campanha de Mídias Sociais",
+            "link": "https://linkedin.com",
+            "descricao": "Aumento do engajamento em 30%."
+        }
+        ],
+        "certificacoes": ["HubSpot Content Marketing"],
+        "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+        "areaInteresses": ["Marketing Digital", "Branding"]
+    },
+    {
+        "Id": 25,
+        "nome": "Rafael Gomes",
+        "foto": "https://i.pravatar.cc/150?img=9",
+        "cargo": "Cybersecurity Analyst",
+        "resumo": "Protegendo sistemas contra ameaças cibernéticas.",
+        "localizacao": "Recife/PE",
+        "area": "Segurança da Informação",
+        "habilidadesTecnicas": ["Firewall", "SIEM", "Análise de Vulnerabilidades"],
+        "softSkills": ["Atenção aos Detalhes", "Pensamento Crítico"],
+        "experiencias": [
+        {
+            "empresa": "SecureTech",
+            "cargo": "Analista de Segurança",
+            "inicio": "2020-11",
+            "fim": "Atualmente",
+            "descricao": "Monitoramento e resposta a incidentes."
+        }
+        ],
+        "formacao": [
+        {
+            "curso": "Segurança da Informação",
+            "instituicao": "UFPE",
+            "ano": 2019
+        }
+        ],
+        "projetos": [
+        {
+            "titulo": "Implementação de SIEM",
+            "link": "https://github.com",
+            "descricao": "Sistema de monitoramento de segurança."
+        }
+        ],
+        "certificacoes": ["Certified Information Systems Security Professional (CISSP)"],
+        "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+        "areaInteresses": ["Segurança Cibernética", "Criptografia"]
+    },
+    {
+        "Id": 26,
+        "nome": "Beatriz Fernandes",
+        "foto": "https://i.pravatar.cc/150?img=10",
+        "cargo": "Product Manager",
+        "resumo": "Liderando equipes para entregar produtos de sucesso.",
+        "localizacao": "Fortaleza/CE",
+        "area": "Gestão de Produtos",
+        "habilidadesTecnicas": ["Agile", "Scrum", "Roadmapping"],
+        "softSkills": ["Liderança", "Comunicação"],
+        "experiencias": [
+        {
+            "empresa": "Innovatech",
+            "cargo": "Gerente de Produto",
+            "inicio": "2018-09",
+            "fim": "Atualmente",
+            "descricao": "Coordenação de equipes multifuncionais."
+        }
+        ],
+        "formacao": [
+        {
+            "curso": "Administração de Empresas",
+            "instituicao": "Unifor",
+            "ano": 2017
+        }
+        ],
+        "projetos": [
+        {
+            "titulo": "Lançamento de Produto Y",
+            "link": "https://linkedin.com",
+            "descricao": "Produto alcançou 1M de usuários em 6 meses."
+        }
+        ],
+        "certificacoes": ["Certified Scrum Product Owner (CSPO)"],
+        "idiomas": [{ "idioma": "Inglês", "nivel": "Fluente" }],
+        "areaInteresses": ["Inovação", "User Experience"]
+    },
+    {
+        "Id": 27,
+        "nome": "Thiago Alves",
+        "foto": "https://i.pravatar.cc/150?img=11",
+        "cargo": "Full Stack Developer",
+        "resumo": "Desenvolvendo soluções completas para web.",
+        "localizacao": "Porto Alegre/RS",
+        "area": "Desenvolvimento",
+        "habilidadesTecnicas": ["JavaScript", "Python", "Django", "React"],
+        "softSkills": ["Adaptabilidade", "Trabalho em Equipe"],
+        "experiencias": [
+        {
+            "empresa": "Web Solutions",
+            "cargo": "Desenvolvedor Full Stack",
+            "inicio": "2019-02",
+            "fim": "Atualmente",
+            "descricao": "Criação de aplicações web escaláveis."
+        }
+        ],
+        "formacao": [
+        {
+            "curso": "Engenharia de Software",
+            "instituicao": "PUCRS",
+            "ano": 2018
+        }
+        ],
+        "projetos": [
+        {
+            "titulo": "Sistema de E-commerce",
+            "link": "https://github.com",
+            "descricao": "Plataforma completa de vendas online."
+        }
+        ],
+        "certificacoes": ["Full Stack Web Development"],
+        "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+        "areaInteresses": ["Desenvolvimento Web", "APIs"]
+    },
+    {
+        "Id": 28,
+        "nome": "Juliana Rocha",
+        "foto": "https://i.pravatar.cc/150?img=12",
+        "cargo": "Content Writer",
+        "resumo": "Criando conteúdo envolvente para diversas plataformas.",
+        "localizacao": "Goiânia/GO",
+        "area": "Comunicação",
+        "habilidadesTecnicas": ["SEO", "Copywriting", "Redação"],
+        "softSkills": ["Criatividade", "Atenção aos Detalhes"],
+        "experiencias": [
+        {
+            "empresa": "Creative Media",
+            "cargo": "Redatora de Conteúdo",
+            "inicio": "2020-04",
+            "fim": "Atualmente",
+            "descricao": "Produção de artigos e posts para blogs."
+        }
+        ],
+        "formacao": [
+        {
+            "curso": "Jornalismo",
+            "instituicao": "UFG",
+            "ano": 2019
+        }
+        ],
+        "projetos": [
+        {
+            "titulo": "Blog de Tecnologia",
+            "link": "https://medium.com",
+            "descricao": "Aumento do tráfego orgânico em 50%."
+        }
+        ],
+        "certificacoes": ["Content Marketing Certification"],
+        "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+        "areaInteresses": ["Marketing de Conteúdo", "Mídias Sociais"]
+    },
+    {
+        "Id": 29,
+        "nome": "Gabriel Martins",
+        "foto": "https://i.pravatar.cc/150?img=13",
+        "cargo": "AI Specialist",
+        "resumo": "Desenvolvendo soluções de inteligência artificial inovadoras.",
+        "localizacao": "Florianópolis/SC",
+        "area": "Inteligência Artificial",
+        "habilidadesTecnicas": ["Machine Learning", "TensorFlow", "Python"],
+        "softSkills": ["Inovação", "Resolução de Problemas"],
+        "experiencias": [
+        {
+            "empresa": "AI Innovations",
+            "cargo": "Especialista em IA",
+            "inicio": "2021-07",
+            "fim": "Atualmente",
+            "descricao": "Desenvolvimento de modelos de IA para automação."
+        }
+        ],
+        "formacao": [
+        {
+            "curso": "Engenharia da Computação",
+            "instituicao": "UFSC",
+            "ano": 2020
+        }
+        ],
+        "projetos": [
+        {
+            "titulo": "Chatbot Inteligente",
+            "link": "https://github.com",
+            "descricao": "Assistente virtual para atendimento ao cliente."
+        }
+        ],
+        "certificacoes": ["Machine Learning by Stanford University"],
+        "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+        "areaInteresses": ["IA Conversacional", "Automação"]
+    },
+    {
+    "Id": 30,
+    "nome": "Ana Silva",
+    "foto": "https://i.pravatar.cc/150?img=1",
+    "cargo": "Engenheira de Software",
+    "resumo": "Especialista em desenvolvimento web com foco em performance e escalabilidade.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["React", "Node.js", "TypeScript"],
+    "softSkills": ["Comunicação", "Resiliência"],
+    "experiencias": [
+      {
+        "empresa": "Tech Corp",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento de interfaces modernas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma X",
+        "link": "https://github.com",
+        "descricao": "Sistema de gestão financeira."
+      }
+    ],
+    "certificacoes": ["AWS Certified Cloud Practitioner"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "areaInteresses": ["IA ética", "Educação"]
+  },
+  {
+    "Id": 31,
+    "nome": "Ana Silva",
+    "foto": "https://i.pravatar.cc/150?img=1",
+    "cargo": "Engenheira de Software",
+    "resumo": "Especialista em desenvolvimento web com foco em performance e escalabilidade.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["React", "Node.js", "TypeScript"],
+    "softSkills": ["Comunicação", "Resiliência"],
+    "experiencias": [
+      {
+        "empresa": "Tech Corp",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento de interfaces modernas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma X",
+        "link": "https://github.com",
+        "descricao": "Sistema de gestão financeira."
+      }
+    ],
+    "certificacoes": ["AWS Certified Cloud Practitioner"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "areaInteresses": ["IA ética", "Educação"]
+  },
+  {
+    "Id": 32,
+    "nome": "Carlos Souza",
+    "foto": "https://i.pravatar.cc/150?img=3",
+    "cargo": "UX Designer",
+    "resumo": "Apaixonado por criar experiências de usuário intuitivas.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": ["Figma", "CSS", "HTML"],
+    "softSkills": ["Empatia", "Criatividade"],
+    "experiencias": [
+      {
+        "empresa": "Design Studio",
+        "cargo": "Designer Junior",
+        "inicio": "2021-03",
+        "fim": "2023-12",
+        "descricao": "Criação de protótipos de alta fidelidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "ESPM",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "App de Delivery",
+        "link": "https://behance.net",
+        "descricao": "Redesign completo de app de entrega."
+      }
+    ],
+    "certificacoes": ["Google UX Design"],
+    "idiomas": [{ "idioma": "Espanhol", "nivel": "Intermediário" }],
+    "areaInteresses": ["Acessibilidade", "Mobile"]
+  },
+  {
+    "Id": 33,
+    "nome": "Fernanda Lima",
+    "foto": "https://i.pravatar.cc/150?img=5",
+    "cargo": "Data Scientist",
+    "resumo": "Transformando dados em insights estratégicos.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Dados",
+    "habilidadesTecnicas": ["Python", "SQL", "Power BI"],
+    "softSkills": ["Pensamento Crítico", "Liderança"],
+    "experiencias": [
+      {
+        "empresa": "Data Inc",
+        "cargo": "Cientista de Dados",
+        "inicio": "2020-05",
+        "fim": "Atualmente",
+        "descricao": "Modelagem preditiva para varejo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Estatística",
+        "instituicao": "UFMG",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Previsão de Vendas",
+        "link": "https://github.com",
+        "descricao": "Modelo de ML para previsão de estoque."
+      }
+    ],
+    "certificacoes": ["Azure Data Scientist"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Fluente" }],
+    "areaInteresses": ["Big Data", "IoT"]
+  },
+  {
+    "Id": 34,
+    "nome": "Ana Silva",
+    "foto": "https://i.pravatar.cc/150?img=1",
+    "cargo": "Engenheira de Software",
+    "resumo": "Especialista em desenvolvimento web com foco em performance e escalabilidade.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["React", "Node.js", "TypeScript"],
+    "softSkills": ["Comunicação", "Resiliência"],
+    "experiencias": [
+      {
+        "empresa": "Tech Corp",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento de interfaces modernas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma X",
+        "link": "https://github.com",
+        "descricao": "Sistema de gestão financeira."
+      }
+    ],
+    "certificacoes": ["AWS Certified Cloud Practitioner"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "areaInteresses": ["IA ética", "Educação"]
+  },
+  {
+    "Id": 35,
+    "nome": "Carlos Souza",
+    "foto": "https://i.pravatar.cc/150?img=3",
+    "cargo": "UX Designer",
+    "resumo": "Apaixonado por criar experiências de usuário intuitivas.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": ["Figma", "CSS", "HTML"],
+    "softSkills": ["Empatia", "Criatividade"],
+    "experiencias": [
+      {
+        "empresa": "Design Studio",
+        "cargo": "Designer Junior",
+        "inicio": "2021-03",
+        "fim": "2023-12",
+        "descricao": "Criação de protótipos de alta fidelidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "ESPM",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "App de Delivery",
+        "link": "https://behance.net",
+        "descricao": "Redesign completo de app de entrega."
+      }
+    ],
+    "certificacoes": ["Google UX Design"],
+    "idiomas": [{ "idioma": "Espanhol", "nivel": "Intermediário" }],
+    "areaInteresses": ["Acessibilidade", "Mobile"]
+  },
+  {
+    "Id": 36,
+    "nome": "Fernanda Lima",
+    "foto": "https://i.pravatar.cc/150?img=5",
+    "cargo": "Data Scientist",
+    "resumo": "Transformando dados em insights estratégicos.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Dados",
+    "habilidadesTecnicas": ["Python", "SQL", "Power BI"],
+    "softSkills": ["Pensamento Crítico", "Liderança"],
+    "experiencias": [
+      {
+        "empresa": "Data Inc",
+        "cargo": "Cientista de Dados",
+        "inicio": "2020-05",
+        "fim": "Atualmente",
+        "descricao": "Modelagem preditiva para varejo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Estatística",
+        "instituicao": "UFMG",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Previsão de Vendas",
+        "link": "https://github.com",
+        "descricao": "Modelo de ML para previsão de estoque."
+      }
+    ],
+    "certificacoes": ["Azure Data Scientist"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Fluente" }],
+    "areaInteresses": ["Big Data", "IoT"]
+  },
+  {
+        "Id": 37,
+        "nome": "Lucas Pereira",
+        "foto": "https://i.pravatar.cc/150?img=7",
+        "cargo": "DevOps Engineer",
+        "resumo": "Automatizando processos para melhorar a entrega de software.",
+        "localizacao": "Curitiba/PR",
+        "area": "Infraestrutura",
+        "habilidadesTecnicas": ["Docker", "Kubernetes", "Jenkins"],
+        "softSkills": ["Colaboração", "Solução de Problemas"],
+        "experiencias": [
+        {
+            "empresa": "Cloud Solutions",
+            "cargo": "Engenheiro DevOps",
+            "inicio": "2019-08",
+            "fim": "Atualmente",
+            "descricao": "Implementação de pipelines CI/CD."
+        }
+        ],
+        "formacao": [
+        {
+            "curso": "Sistemas de Informação",
+            "instituicao": "PUC-PR",
+            "ano": 2018
+        }
+        ],
+        "projetos": [
+        {
+            "titulo": "Automação de Infraestrutura",
+            "link": "https://github.com",
+            "descricao": "Scripts para provisionamento automático."
+        }
+        ],
+        "certificacoes": ["Certified Kubernetes Administrator"],
+        "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+        "areaInteresses": ["Cloud Computing", "Segurança"]
+    },
+    {
+        "Id": 38,
+        "nome": "Mariana Costa",
+        "foto": "https://i.pravatar.cc/150?img=8",
+        "cargo": "Marketing Specialist",
+        "resumo": "Criando estratégias de marketing digital eficazes.",
+        "localizacao": "Salvador/BA",
+        "area": "Marketing",
+        "habilidadesTecnicas": ["SEO", "Google Analytics", "Content Marketing"],
+        "softSkills": ["Criatividade", "Análise de Dados"],
+        "experiencias": [
+        {
+            "empresa": "Market Experts",
+            "cargo": "Especialista em Marketing",
+            "inicio": "2021-06",
+            "fim": "Atualmente",
+            "descricao": "Desenvolvimento de campanhas digitais."
+        }
+        ],
+        "formacao": [
+        {
+            "curso": "Marketing",
+            "instituicao": "UFBA",
+            "ano": 2020
+        }
+        ],
+        "projetos": [
+        {
+            "titulo": "Campanha de Mídias Sociais",
+            "link": "https://linkedin.com",
+            "descricao": "Aumento do engajamento em 30%."
+        }
+        ],
+        "certificacoes": ["HubSpot Content Marketing"],
+        "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+        "areaInteresses": ["Marketing Digital", "Branding"]
+    },
+    {
+        "Id": 39,
+        "nome": "Rafael Gomes",
+        "foto": "https://i.pravatar.cc/150?img=9",
+        "cargo": "Cybersecurity Analyst",
+        "resumo": "Protegendo sistemas contra ameaças cibernéticas.",
+        "localizacao": "Recife/PE",
+        "area": "Segurança da Informação",
+        "habilidadesTecnicas": ["Firewall", "SIEM", "Análise de Vulnerabilidades"],
+        "softSkills": ["Atenção aos Detalhes", "Pensamento Crítico"],
+        "experiencias": [
+        {
+            "empresa": "SecureTech",
+            "cargo": "Analista de Segurança",
+            "inicio": "2020-11",
+            "fim": "Atualmente",
+            "descricao": "Monitoramento e resposta a incidentes."
+        }
+        ],
+        "formacao": [
+        {
+            "curso": "Segurança da Informação",
+            "instituicao": "UFPE",
+            "ano": 2019
+        }
+        ],
+        "projetos": [
+        {
+            "titulo": "Implementação de SIEM",
+            "link": "https://github.com",
+            "descricao": "Sistema de monitoramento de segurança."
+        }
+        ],
+        "certificacoes": ["Certified Information Systems Security Professional (CISSP)"],
+        "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+        "areaInteresses": ["Segurança Cibernética", "Criptografia"]
+    },
+    {
+        "Id": 40,
+        "nome": "Beatriz Fernandes",
+        "foto": "https://i.pravatar.cc/150?img=10",
+        "cargo": "Product Manager",
+        "resumo": "Liderando equipes para entregar produtos de sucesso.",
+        "localizacao": "Fortaleza/CE",
+        "area": "Gestão de Produtos",
+        "habilidadesTecnicas": ["Agile", "Scrum", "Roadmapping"],
+        "softSkills": ["Liderança", "Comunicação"],
+        "experiencias": [
+        {
+            "empresa": "Innovatech",
+            "cargo": "Gerente de Produto",
+            "inicio": "2018-09",
+            "fim": "Atualmente",
+            "descricao": "Coordenação de equipes multifuncionais."
+        }
+        ],
+        "formacao": [
+        {
+            "curso": "Administração de Empresas",
+            "instituicao": "Unifor",
+            "ano": 2017
+        }
+        ],
+        "projetos": [
+        {
+            "titulo": "Lançamento de Produto Y",
+            "link": "https://linkedin.com",
+            "descricao": "Produto alcançou 1M de usuários em 6 meses."
+        }
+        ],
+        "certificacoes": ["Certified Scrum Product Owner (CSPO)"],
+        "idiomas": [{ "idioma": "Inglês", "nivel": "Fluente" }],
+        "areaInteresses": ["Inovação", "User Experience"]
+    },
+    {
+        "Id": 41,
+        "nome": "Thiago Alves",
+        "foto": "https://i.pravatar.cc/150?img=11",
+        "cargo": "Full Stack Developer",
+        "resumo": "Desenvolvendo soluções completas para web.",
+        "localizacao": "Porto Alegre/RS",
+        "area": "Desenvolvimento",
+        "habilidadesTecnicas": ["JavaScript", "Python", "Django", "React"],
+        "softSkills": ["Adaptabilidade", "Trabalho em Equipe"],
+        "experiencias": [
+        {
+            "empresa": "Web Solutions",
+            "cargo": "Desenvolvedor Full Stack",
+            "inicio": "2019-02",
+            "fim": "Atualmente",
+            "descricao": "Criação de aplicações web escaláveis."
+        }
+        ],
+        "formacao": [
+        {
+            "curso": "Engenharia de Software",
+            "instituicao": "PUCRS",
+            "ano": 2018
+        }
+        ],
+        "projetos": [
+        {
+            "titulo": "Sistema de E-commerce",
+            "link": "https://github.com",
+            "descricao": "Plataforma completa de vendas online."
+        }
+        ],
+        "certificacoes": ["Full Stack Web Development"],
+        "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+        "areaInteresses": ["Desenvolvimento Web", "APIs"]
+    },
+    {
+        "Id": 42,
+        "nome": "Juliana Rocha",
+        "foto": "https://i.pravatar.cc/150?img=12",
+        "cargo": "Content Writer",
+        "resumo": "Criando conteúdo envolvente para diversas plataformas.",
+        "localizacao": "Goiânia/GO",
+        "area": "Comunicação",
+        "habilidadesTecnicas": ["SEO", "Copywriting", "Redação"],
+        "softSkills": ["Criatividade", "Atenção aos Detalhes"],
+        "experiencias": [
+        {
+            "empresa": "Creative Media",
+            "cargo": "Redatora de Conteúdo",
+            "inicio": "2020-04",
+            "fim": "Atualmente",
+            "descricao": "Produção de artigos e posts para blogs."
+        }
+        ],
+        "formacao": [
+        {
+            "curso": "Jornalismo",
+            "instituicao": "UFG",
+            "ano": 2019
+        }
+        ],
+        "projetos": [
+        {
+            "titulo": "Blog de Tecnologia",
+            "link": "https://medium.com",
+            "descricao": "Aumento do tráfego orgânico em 50%."
+        }
+        ],
+        "certificacoes": ["Content Marketing Certification"],
+        "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+        "areaInteresses": ["Marketing de Conteúdo", "Mídias Sociais"]
+    },
+    {
+        "Id": 43,
+        "nome": "Gabriel Martins",
+        "foto": "https://i.pravatar.cc/150?img=13",
+        "cargo": "AI Specialist",
+        "resumo": "Desenvolvendo soluções de inteligência artificial inovadoras.",
+        "localizacao": "Florianópolis/SC",
+        "area": "Inteligência Artificial",
+        "habilidadesTecnicas": ["Machine Learning", "TensorFlow", "Python"],
+        "softSkills": ["Inovação", "Resolução de Problemas"],
+        "experiencias": [
+        {
+            "empresa": "AI Innovations",
+            "cargo": "Especialista em IA",
+            "inicio": "2021-07",
+            "fim": "Atualmente",
+            "descricao": "Desenvolvimento de modelos de IA para automação."
+        }
+        ],
+        "formacao": [
+        {
+            "curso": "Engenharia da Computação",
+            "instituicao": "UFSC",
+            "ano": 2020
+        }
+        ],
+        "projetos": [
+        {
+            "titulo": "Chatbot Inteligente",
+            "link": "https://github.com",
+            "descricao": "Assistente virtual para atendimento ao cliente."
+        }
+        ],
+        "certificacoes": ["Machine Learning by Stanford University"],
+        "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+        "areaInteresses": ["IA Conversacional", "Automação"]
+    },
+    {
+    "Id": 44,
+    "nome": "Ana Silva",
+    "foto": "https://i.pravatar.cc/150?img=1",
+    "cargo": "Engenheira de Software",
+    "resumo": "Especialista em desenvolvimento web com foco em performance e escalabilidade.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["React", "Node.js", "TypeScript"],
+    "softSkills": ["Comunicação", "Resiliência"],
+    "experiencias": [
+      {
+        "empresa": "Tech Corp",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento de interfaces modernas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma X",
+        "link": "https://github.com",
+        "descricao": "Sistema de gestão financeira."
+      }
+    ],
+    "certificacoes": ["AWS Certified Cloud Practitioner"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "areaInteresses": ["IA ética", "Educação"]
+  },
+  {
+    "Id": 45,
+    "nome": "Carlos Souza",
+    "foto": "https://i.pravatar.cc/150?img=3",
+    "cargo": "UX Designer",
+    "resumo": "Apaixonado por criar experiências de usuário intuitivas.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": ["Figma", "CSS", "HTML"],
+    "softSkills": ["Empatia", "Criatividade"],
+    "experiencias": [
+      {
+        "empresa": "Design Studio",
+        "cargo": "Designer Junior",
+        "inicio": "2021-03",
+        "fim": "2023-12",
+        "descricao": "Criação de protótipos de alta fidelidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "ESPM",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "App de Delivery",
+        "link": "https://behance.net",
+        "descricao": "Redesign completo de app de entrega."
+      }
+    ],
+    "certificacoes": ["Google UX Design"],
+    "idiomas": [{ "idioma": "Espanhol", "nivel": "Intermediário" }],
+    "areaInteresses": ["Acessibilidade", "Mobile"]
+  },
+  {
+    "Id": 46,
+    "nome": "Fernanda Lima",
+    "foto": "https://i.pravatar.cc/150?img=5",
+    "cargo": "Data Scientist",
+    "resumo": "Transformando dados em insights estratégicos.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Dados",
+    "habilidadesTecnicas": ["Python", "SQL", "Power BI"],
+    "softSkills": ["Pensamento Crítico", "Liderança"],
+    "experiencias": [
+      {
+        "empresa": "Data Inc",
+        "cargo": "Cientista de Dados",
+        "inicio": "2020-05",
+        "fim": "Atualmente",
+        "descricao": "Modelagem preditiva para varejo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Estatística",
+        "instituicao": "UFMG",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Previsão de Vendas",
+        "link": "https://github.com",
+        "descricao": "Modelo de ML para previsão de estoque."
+      }
+    ],
+    "certificacoes": ["Azure Data Scientist"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Fluente" }],
+    "areaInteresses": ["Big Data", "IoT"]
+  },
+  {
+    "Id": 47,
+    "nome": "Ana Silva",
+    "foto": "https://i.pravatar.cc/150?img=1",
+    "cargo": "Engenheira de Software",
+    "resumo": "Especialista em desenvolvimento web com foco em performance e escalabilidade.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["React", "Node.js", "TypeScript"],
+    "softSkills": ["Comunicação", "Resiliência"],
+    "experiencias": [
+      {
+        "empresa": "Tech Corp",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento de interfaces modernas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma X",
+        "link": "https://github.com",
+        "descricao": "Sistema de gestão financeira."
+      }
+    ],
+    "certificacoes": ["AWS Certified Cloud Practitioner"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "areaInteresses": ["IA ética", "Educação"]
+  },
+  {
+    "Id": 48,
+    "nome": "Carlos Souza",
+    "foto": "https://i.pravatar.cc/150?img=3",
+    "cargo": "UX Designer",
+    "resumo": "Apaixonado por criar experiências de usuário intuitivas.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": ["Figma", "CSS", "HTML"],
+    "softSkills": ["Empatia", "Criatividade"],
+    "experiencias": [
+      {
+        "empresa": "Design Studio",
+        "cargo": "Designer Junior",
+        "inicio": "2021-03",
+        "fim": "2023-12",
+        "descricao": "Criação de protótipos de alta fidelidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "ESPM",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "App de Delivery",
+        "link": "https://behance.net",
+        "descricao": "Redesign completo de app de entrega."
+      }
+    ],
+    "certificacoes": ["Google UX Design"],
+    "idiomas": [{ "idioma": "Espanhol", "nivel": "Intermediário" }],
+    "areaInteresses": ["Acessibilidade", "Mobile"]
+  },
+  {
+    "Id": 49,
+    "nome": "Fernanda Lima",
+    "foto": "https://i.pravatar.cc/150?img=5",
+    "cargo": "Data Scientist",
+    "resumo": "Transformando dados em insights estratégicos.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Dados",
+    "habilidadesTecnicas": ["Python", "SQL", "Power BI"],
+    "softSkills": ["Pensamento Crítico", "Liderança"],
+    "experiencias": [
+      {
+        "empresa": "Data Inc",
+        "cargo": "Cientista de Dados",
+        "inicio": "2020-05",
+        "fim": "Atualmente",
+        "descricao": "Modelagem preditiva para varejo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Estatística",
+        "instituicao": "UFMG",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Previsão de Vendas",
+        "link": "https://github.com",
+        "descricao": "Modelo de ML para previsão de estoque."
+      }
+    ],
+    "certificacoes": ["Azure Data Scientist"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Fluente" }],
+    "areaInteresses": ["Big Data", "IoT"]
+  },
+  {
+    "Id": 50,
+    "nome": "Ana Silva",
+    "foto": "https://i.pravatar.cc/150?img=1",
+    "cargo": "Engenheira de Software",
+    "resumo": "Especialista em desenvolvimento web com foco em performance e escalabilidade.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["React", "Node.js", "TypeScript"],
+    "softSkills": ["Comunicação", "Resiliência"],
+    "experiencias": [
+      {
+        "empresa": "Tech Corp",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento de interfaces modernas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma X",
+        "link": "https://github.com",
+        "descricao": "Sistema de gestão financeira."
+      }
+    ],
+    "certificacoes": ["AWS Certified Cloud Practitioner"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "areaInteresses": ["IA ética", "Educação"]
+  },
+  {
+    "Id": 51,
+    "nome": "Carlos Souza",
+    "foto": "https://i.pravatar.cc/150?img=3",
+    "cargo": "UX Designer",
+    "resumo": "Apaixonado por criar experiências de usuário intuitivas.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": ["Figma", "CSS", "HTML"],
+    "softSkills": ["Empatia", "Criatividade"],
+    "experiencias": [
+      {
+        "empresa": "Design Studio",
+        "cargo": "Designer Junior",
+        "inicio": "2021-03",
+        "fim": "2023-12",
+        "descricao": "Criação de protótipos de alta fidelidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "ESPM",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "App de Delivery",
+        "link": "https://behance.net",
+        "descricao": "Redesign completo de app de entrega."
+      }
+    ],
+    "certificacoes": ["Google UX Design"],
+    "idiomas": [{ "idioma": "Espanhol", "nivel": "Intermediário" }],
+    "areaInteresses": ["Acessibilidade", "Mobile"]
+  },
+  {
+    "Id": 52,
+    "nome": "Fernanda Lima",
+    "foto": "https://i.pravatar.cc/150?img=5",
+    "cargo": "Data Scientist",
+    "resumo": "Transformando dados em insights estratégicos.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Dados",
+    "habilidadesTecnicas": ["Python", "SQL", "Power BI"],
+    "softSkills": ["Pensamento Crítico", "Liderança"],
+    "experiencias": [
+      {
+        "empresa": "Data Inc",
+        "cargo": "Cientista de Dados",
+        "inicio": "2020-05",
+        "fim": "Atualmente",
+        "descricao": "Modelagem preditiva para varejo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Estatística",
+        "instituicao": "UFMG",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Previsão de Vendas",
+        "link": "https://github.com",
+        "descricao": "Modelo de ML para previsão de estoque."
+      }
+    ],
+    "certificacoes": ["Azure Data Scientist"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Fluente" }],
+    "areaInteresses": ["Big Data", "IoT"]
+  },
+  {
+        "Id": 53,
+        "nome": "Lucas Pereira",
+        "foto": "https://i.pravatar.cc/150?img=7",
+        "cargo": "DevOps Engineer",
+        "resumo": "Automatizando processos para melhorar a entrega de software.",
+        "localizacao": "Curitiba/PR",
+        "area": "Infraestrutura",
+        "habilidadesTecnicas": ["Docker", "Kubernetes", "Jenkins"],
+        "softSkills": ["Colaboração", "Solução de Problemas"],
+        "experiencias": [
+        {
+            "empresa": "Cloud Solutions",
+            "cargo": "Engenheiro DevOps",
+            "inicio": "2019-08",
+            "fim": "Atualmente",
+            "descricao": "Implementação de pipelines CI/CD."
+        }
+        ],
+        "formacao": [
+        {
+            "curso": "Sistemas de Informação",
+            "instituicao": "PUC-PR",
+            "ano": 2018
+        }
+        ],
+        "projetos": [
+        {
+            "titulo": "Automação de Infraestrutura",
+            "link": "https://github.com",
+            "descricao": "Scripts para provisionamento automático."
+        }
+        ],
+        "certificacoes": ["Certified Kubernetes Administrator"],
+        "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+        "areaInteresses": ["Cloud Computing", "Segurança"]
+    },
+    {
+        "Id": 54,
+        "nome": "Mariana Costa",
+        "foto": "https://i.pravatar.cc/150?img=8",
+        "cargo": "Marketing Specialist",
+        "resumo": "Criando estratégias de marketing digital eficazes.",
+        "localizacao": "Salvador/BA",
+        "area": "Marketing",
+        "habilidadesTecnicas": ["SEO", "Google Analytics", "Content Marketing"],
+        "softSkills": ["Criatividade", "Análise de Dados"],
+        "experiencias": [
+        {
+            "empresa": "Market Experts",
+            "cargo": "Especialista em Marketing",
+            "inicio": "2021-06",
+            "fim": "Atualmente",
+            "descricao": "Desenvolvimento de campanhas digitais."
+        }
+        ],
+        "formacao": [
+        {
+            "curso": "Marketing",
+            "instituicao": "UFBA",
+            "ano": 2020
+        }
+        ],
+        "projetos": [
+        {
+            "titulo": "Campanha de Mídias Sociais",
+            "link": "https://linkedin.com",
+            "descricao": "Aumento do engajamento em 30%."
+        }
+        ],
+        "certificacoes": ["HubSpot Content Marketing"],
+        "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+        "areaInteresses": ["Marketing Digital", "Branding"]
+    },
+    {
+        "Id": 55,
+        "nome": "Rafael Gomes",
+        "foto": "https://i.pravatar.cc/150?img=9",
+        "cargo": "Cybersecurity Analyst",
+        "resumo": "Protegendo sistemas contra ameaças cibernéticas.",
+        "localizacao": "Recife/PE",
+        "area": "Segurança da Informação",
+        "habilidadesTecnicas": ["Firewall", "SIEM", "Análise de Vulnerabilidades"],
+        "softSkills": ["Atenção aos Detalhes", "Pensamento Crítico"],
+        "experiencias": [
+        {
+            "empresa": "SecureTech",
+            "cargo": "Analista de Segurança",
+            "inicio": "2020-11",
+            "fim": "Atualmente",
+            "descricao": "Monitoramento e resposta a incidentes."
+        }
+        ],
+        "formacao": [
+        {
+            "curso": "Segurança da Informação",
+            "instituicao": "UFPE",
+            "ano": 2019
+        }
+        ],
+        "projetos": [
+        {
+            "titulo": "Implementação de SIEM",
+            "link": "https://github.com",
+            "descricao": "Sistema de monitoramento de segurança."
+        }
+        ],
+        "certificacoes": ["Certified Information Systems Security Professional (CISSP)"],
+        "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+        "areaInteresses": ["Segurança Cibernética", "Criptografia"]
+    },
+    {
+        "Id": 56,
+        "nome": "Beatriz Fernandes",
+        "foto": "https://i.pravatar.cc/150?img=10",
+        "cargo": "Product Manager",
+        "resumo": "Liderando equipes para entregar produtos de sucesso.",
+        "localizacao": "Fortaleza/CE",
+        "area": "Gestão de Produtos",
+        "habilidadesTecnicas": ["Agile", "Scrum", "Roadmapping"],
+        "softSkills": ["Liderança", "Comunicação"],
+        "experiencias": [
+        {
+            "empresa": "Innovatech",
+            "cargo": "Gerente de Produto",
+            "inicio": "2018-09",
+            "fim": "Atualmente",
+            "descricao": "Coordenação de equipes multifuncionais."
+        }
+        ],
+        "formacao": [
+        {
+            "curso": "Administração de Empresas",
+            "instituicao": "Unifor",
+            "ano": 2017
+        }
+        ],
+        "projetos": [
+        {
+            "titulo": "Lançamento de Produto Y",
+            "link": "https://linkedin.com",
+            "descricao": "Produto alcançou 1M de usuários em 6 meses."
+        }
+        ],
+        "certificacoes": ["Certified Scrum Product Owner (CSPO)"],
+        "idiomas": [{ "idioma": "Inglês", "nivel": "Fluente" }],
+        "areaInteresses": ["Inovação", "User Experience"]
+    },
+    {
+        "Id": 57,
+        "nome": "Thiago Alves",
+        "foto": "https://i.pravatar.cc/150?img=11",
+        "cargo": "Full Stack Developer",
+        "resumo": "Desenvolvendo soluções completas para web.",
+        "localizacao": "Porto Alegre/RS",
+        "area": "Desenvolvimento",
+        "habilidadesTecnicas": ["JavaScript", "Python", "Django", "React"],
+        "softSkills": ["Adaptabilidade", "Trabalho em Equipe"],
+        "experiencias": [
+        {
+            "empresa": "Web Solutions",
+            "cargo": "Desenvolvedor Full Stack",
+            "inicio": "2019-02",
+            "fim": "Atualmente",
+            "descricao": "Criação de aplicações web escaláveis."
+        }
+        ],
+        "formacao": [
+        {
+            "curso": "Engenharia de Software",
+            "instituicao": "PUCRS",
+            "ano": 2018
+        }
+        ],
+        "projetos": [
+        {
+            "titulo": "Sistema de E-commerce",
+            "link": "https://github.com",
+            "descricao": "Plataforma completa de vendas online."
+        }
+        ],
+        "certificacoes": ["Full Stack Web Development"],
+        "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+        "areaInteresses": ["Desenvolvimento Web", "APIs"]
+    },
+    {
+        "Id": 58,
+        "nome": "Juliana Rocha",
+        "foto": "https://i.pravatar.cc/150?img=12",
+        "cargo": "Content Writer",
+        "resumo": "Criando conteúdo envolvente para diversas plataformas.",
+        "localizacao": "Goiânia/GO",
+        "area": "Comunicação",
+        "habilidadesTecnicas": ["SEO", "Copywriting", "Redação"],
+        "softSkills": ["Criatividade", "Atenção aos Detalhes"],
+        "experiencias": [
+        {
+            "empresa": "Creative Media",
+            "cargo": "Redatora de Conteúdo",
+            "inicio": "2020-04",
+            "fim": "Atualmente",
+            "descricao": "Produção de artigos e posts para blogs."
+        }
+        ],
+        "formacao": [
+        {
+            "curso": "Jornalismo",
+            "instituicao": "UFG",
+            "ano": 2019
+        }
+        ],
+        "projetos": [
+        {
+            "titulo": "Blog de Tecnologia",
+            "link": "https://medium.com",
+            "descricao": "Aumento do tráfego orgânico em 50%."
+        }
+        ],
+        "certificacoes": ["Content Marketing Certification"],
+        "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+        "areaInteresses": ["Marketing de Conteúdo", "Mídias Sociais"]
+    },
+    {
+        "Id": 59,
+        "nome": "Gabriel Martins",
+        "foto": "https://i.pravatar.cc/150?img=13",
+        "cargo": "AI Specialist",
+        "resumo": "Desenvolvendo soluções de inteligência artificial inovadoras.",
+        "localizacao": "Florianópolis/SC",
+        "area": "Inteligência Artificial",
+        "habilidadesTecnicas": ["Machine Learning", "TensorFlow", "Python"],
+        "softSkills": ["Inovação", "Resolução de Problemas"],
+        "experiencias": [
+        {
+            "empresa": "AI Innovations",
+            "cargo": "Especialista em IA",
+            "inicio": "2021-07",
+            "fim": "Atualmente",
+            "descricao": "Desenvolvimento de modelos de IA para automação."
+        }
+        ],
+        "formacao": [
+        {
+            "curso": "Engenharia da Computação",
+            "instituicao": "UFSC",
+            "ano": 2020
+        }
+        ],
+        "projetos": [
+        {
+            "titulo": "Chatbot Inteligente",
+            "link": "https://github.com",
+            "descricao": "Assistente virtual para atendimento ao cliente."
+        }
+        ],
+        "certificacoes": ["Machine Learning by Stanford University"],
+        "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+        "areaInteresses": ["IA Conversacional", "Automação"]
+    },
+    {
+    "Id": 60,
+    "nome": "Ana Silva",
+    "foto": "https://i.pravatar.cc/150?img=1",
+    "cargo": "Engenheira de Software",
+    "resumo": "Especialista em desenvolvimento web com foco em performance e escalabilidade.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["React", "Node.js", "TypeScript"],
+    "softSkills": ["Comunicação", "Resiliência"],
+    "experiencias": [
+      {
+        "empresa": "Tech Corp",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento de interfaces modernas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma X",
+        "link": "https://github.com",
+        "descricao": "Sistema de gestão financeira."
+      }
+    ],
+    "certificacoes": ["AWS Certified Cloud Practitioner"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "areaInteresses": ["IA ética", "Educação"]
+  }
+]
+
+
+  
