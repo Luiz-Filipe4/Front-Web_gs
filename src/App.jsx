@@ -13,15 +13,17 @@ function App() {
   const [searchTerm, setSearchTerm] = useState("");
   const [filterArea, setFilterArea] = useState("");
 
-  // Lógica de Filtro (Busca e Select)
+// Lógica de Filtro (Busca e Select)
   useEffect(() => {
     const results = profiles.filter(profile => {
-      // Busca no nome ou nas skills técnicas
+      const term = searchTerm.toLowerCase();
+
       const matchesSearch = 
-        profile.nome.toLowerCase().includes(searchTerm.toLowerCase()) || 
-        profile.habilidadesTecnicas.some(skill => skill.toLowerCase().includes(searchTerm.toLowerCase()));
+        profile.nome.toLowerCase().includes(term) || 
+        profile.habilidadesTecnicas.some(skill => skill.toLowerCase().includes(term)) ||
+        profile.localizacao.toLowerCase().includes(term);
       
-      // Busca pela área
+      // Busca exata pela área (Select)
       const matchesArea = filterArea ? profile.area === filterArea : true;
       
       return matchesSearch && matchesArea;
@@ -57,7 +59,7 @@ function App() {
       <div className="max-w-7xl mx-auto mb-8 grid gap-4 md:grid-cols-2">
         <input 
           type="text"
-          placeholder="Buscar por nome ou habilidade..."
+          placeholder="Buscar por nome, habilidade ou local"
           className="p-4 rounded-lg border border-gray-300 dark:bg-gray-800 dark:text-white dark:border-gray-700 focus:ring-2 focus:ring-blue-500 outline-none"
           onChange={(e) => setSearchTerm(e.target.value)}
         />
